@@ -1,0 +1,108 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700&display=swap');
+body {
+    margin: 0;
+    padding: 0;
+}
+
+@font-face {
+    font-family: "Far From Homecoming";
+    src: url(../documents/Far-From\ Homecoming\ Updated.otf);
+}
+
+.menu .list-inline-item a {
+    color: #FFFFFF;
+    margin-left: 40px;
+    margin-right: 40px;
+    text-decoration: none;
+}
+
+#premiere {
+    background-color: #F1C530;
+    color: #FFFFFF;
+}
+
+#toile {
+    padding-top: 15%;
+    text-align: justify;
+    padding-left: 10%;
+}
+
+#toile1 {
+    padding-left: 8%;
+    padding-right: 0%;
+}
+
+h1 {
+    font-family: "Far From Homecoming";
+    font-size: 75px;
+}
+
+h2 {
+    font-family: "Far From Homecoming";
+}
+
+#deuxieme {
+    padding-top: 10%;
+    padding-bottom: 10%;
+    padding-right: 0;
+    color: #FFFFFF;
+    background-color: #b11313;
+}
+
+.row #formulaire {
+    justify-content: center;
+}
+
+#bouton .list-inline-item {
+    padding-left: 2%;
+    padding-right: 2%;
+}
+
+#bouton {
+    background-color: #114C92;
+    color: #FFFFFF;
+    justify-content: center;
+    padding-top: 10%;
+    padding-bottom: 10%;
+}
+
+#bouton>h2 {
+    padding-right: 62%;
+    padding-bottom: 5%;
+}
+
+#bouton>h3 {
+    padding-right: 58%;
+    padding-bottom: 3%;
+}
+
+#bot {
+    margin-left: 27%;
+}
+
+#footer {
+    background-color: #000000;
+    font-family: "Far From Homecoming";
+}
+
+.top-footer {
+    padding-top: 8%;
+    padding-bottom: 8%;
+    width: 90%;
+}
+
+.top-footer li {
+    text-align: center;
+    padding-left: 1%;
+    padding-right: 1%;
+}
+
+.bottom-footer {
+    padding-top: 3%;
+    padding-bottom: 3%;
+}
+
+footer .list-inline a {
+    text-decoration: none;
+    color: #FFFFFF;
+}
